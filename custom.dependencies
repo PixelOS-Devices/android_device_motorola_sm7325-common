@@ -1,0 +1,16 @@
+[
+  {
+    "repository": "PixelOS-Devices/android_kernel_motorola_sm7325",
+    "target_path": "kernel/motorola/sm7325"
+  },
+  {
+    "repository": "LineageOS/android_hardware_motorola",
+    "target_path": "hardware/motorola",
+    "branch": "lineage-23.1"
+  },
+  {
+    "repository": "NoPrincessHere/android_vendor_motorola_sm7325-common",
+    "target_path": "vendor/motorola/sm7325-common",
+    "remote": "gitlab"
+  }
+]
