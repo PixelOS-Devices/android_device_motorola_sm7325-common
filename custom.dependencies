@@ -4,9 +4,8 @@
     "target_path": "kernel/motorola/sm7325"
   },
   {
-    "repository": "LineageOS/android_hardware_motorola",
-    "target_path": "hardware/motorola",
-    "branch": "lineage-23.1"
+    "repository": "PixelOS-AOSP/android_hardware_motorola",
+    "target_path": "hardware/motorola"
   },
   {
     "repository": "NoPrincessHere/proprietary_vendor_motorola_sm7325-common",
