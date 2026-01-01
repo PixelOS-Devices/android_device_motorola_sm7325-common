@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ec383bfe_45b27f68",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2026-01-01T15:20:24Z",
+      "side": 1,
+      "message": "```suggestion\n\n* More better for AMOLED displays, less values create glitch on display\n* to fixup the ramp-up delay in refresh rate switching\n```",
+      "range": {
+        "startLine": 8,
+        "startChar": 0,
+        "endLine": 9,
+        "endChar": 54
+      },
+      "revId": "12725153acc9b3ecbb90715a0f962c9de5774bf2",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
